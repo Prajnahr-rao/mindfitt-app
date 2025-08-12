@@ -38,10 +38,6 @@ Whether you’re aiming to improve focus, boost productivity, or maintain emotio
 - **Storage:** LocalStorage / IndexedDB  
 - **Charts & Visualization:** Chart.js *(or relevant library)*  
 
----
-
-## 📷 Screenshots
-*(Add your app screenshots here)*
 
 ---
 
