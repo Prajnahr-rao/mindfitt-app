@@ -13,9 +13,3 @@ MindFit is a wellness and productivity tracking application designed to help use
 - Simple and intuitive UI
 - Local storage support
 
-## Tech Stack
-- Frontend: React.js
-- Backend: Node.js, Express.js
-- Database: MongoDB
-
-## Getting Started
